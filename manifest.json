@@ -1,0 +1,486 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/github/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.CompactModule.OgraniczenieDniaRecord.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.CompactModule.OgraniczenieDniaRecord.html",
+          "hash": "7D9xm0mVkB0Hh1u55/Cb8w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.CompactModule.OgraniczenieDniaRow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.CompactModule.OgraniczenieDniaRow.html",
+          "hash": "XKjIE1Skob1oj7+RU3H/Ew=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.CompactModule.OgraniczenieDniaSchema.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.CompactModule.OgraniczenieDniaSchema.html",
+          "hash": "3XMmnRl8yhmwR8TC+VUXMQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.CompactModule.OgraniczenieDniaTable.DefinicjaDniaRelation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.CompactModule.OgraniczenieDniaTable.DefinicjaDniaRelation.html",
+          "hash": "7YobnXzjvOFFfUW4w/XyeA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.CompactModule.OgraniczenieDniaTable.JednostkaOrganizacyjnaRelation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.CompactModule.OgraniczenieDniaTable.JednostkaOrganizacyjnaRelation.html",
+          "hash": "prM3EHnQf82WTrIMK7vxZA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.CompactModule.OgraniczenieDniaTable.WgKodKey.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.CompactModule.OgraniczenieDniaTable.WgKodKey.html",
+          "hash": "WujVflnQ0tOHq1C+/mf95A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.CompactModule.OgraniczenieDniaTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.CompactModule.OgraniczenieDniaTable.html",
+          "hash": "tLIVJMLumsYripLHidYMqw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.CompactModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.CompactModule.html",
+          "hash": "p6yIbiR41qf7NUkVIKZgXQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.StaticsCompactModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.StaticsCompactModule.html",
+          "hash": "j519mkLz37KsDU1wrbF9DQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.html",
+          "hash": "B9yl1Mm3hoqgLyLwJcMnBQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Compact.OgraniczenieDniaPracy.DniWyboru.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Compact.OgraniczenieDniaPracy.DniWyboru.html",
+          "hash": "ODa+L1uZALfk3XzUQjAwqQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Compact.OgraniczenieDniaPracy.Init.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Compact.OgraniczenieDniaPracy.Init.html",
+          "hash": "WZrjWnoJmVjox19PFDLyRQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Compact.OgraniczenieDniaPracy.OgraniczeniaDnia.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Compact.OgraniczenieDniaPracy.OgraniczeniaDnia.html",
+          "hash": "ppICh13cBitcN5PVkuR5XQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Compact.OgraniczenieDniaPracy.OgraniczenieDnia.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Compact.OgraniczenieDniaPracy.OgraniczenieDnia.html",
+          "hash": "p0kB4xPA3lu9G+JMvvmXIg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Compact.OgraniczenieDniaPracy.PageFormOgr.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Compact.OgraniczenieDniaPracy.PageFormOgr.html",
+          "hash": "OIneiv22umNl4kRES2RgJw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Compact.OgraniczenieDniaPracy.ViewOgraniczeniaViewInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Compact.OgraniczenieDniaPracy.ViewOgraniczeniaViewInfo.html",
+          "hash": "b6qfk2+VjW0O7NF4m26u6A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Compact.OgraniczenieDniaPracy.WParams.Wparams_Wewnetrzna.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Compact.OgraniczenieDniaPracy.WParams.Wparams_Wewnetrzna.html",
+          "hash": "keprj+GEtn2Rmnf5TfA8mw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Compact.OgraniczenieDniaPracy.WParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Compact.OgraniczenieDniaPracy.WParams.html",
+          "hash": "Y3DW3gHT3fX12zPb9sELoQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Compact.OgraniczenieDniaPracy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Compact.OgraniczenieDniaPracy.html",
+          "hash": "bttKL4RU95zr/y7ZX8UgLw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "pWCA2TrDZPmYkgqQtTVMsA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "WBComL+1NCCi/cP8zqQuww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "TVQncD/qgqjFfBz0b99QDQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "articles/test.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/test.html",
+          "hash": "2Ldsp9Q3rst75wVe3++m1A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "VhuoZrxyJKiPTNSAVojdTA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Obraz1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Obraz1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Obraz10.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Obraz10.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Obraz2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Obraz2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Obraz3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Obraz3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Obraz4.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Obraz4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Obraz5.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Obraz5.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Obraz6.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Obraz6.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Obraz7_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Obraz7_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Obraz8_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Obraz8_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Obraz9_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Obraz9_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "wNWxldWfLAe1vxOgwcp3GA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "+rHUkRZHZRi5gd1aTU6lJA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 4,
+          "skipped_file_count": 4
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 19,
+          "skipped_file_count": 19
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
