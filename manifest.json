@@ -9,10 +9,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.CompactModule.OgraniczenieDniaRecord.html",
-          "hash": "7D9xm0mVkB0Hh1u55/Cb8w=="
+          "hash": "sauS1AxuEOpKJPGKQltwSw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -21,10 +21,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.CompactModule.OgraniczenieDniaRow.html",
-          "hash": "XKjIE1Skob1oj7+RU3H/Ew=="
+          "hash": "8tW4u7RpfwaxjLldzrJV6Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -33,10 +33,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.CompactModule.OgraniczenieDniaSchema.html",
-          "hash": "3XMmnRl8yhmwR8TC+VUXMQ=="
+          "hash": "twdoXkFhzL6ECAquDrqmng=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -45,10 +45,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.CompactModule.OgraniczenieDniaTable.DefinicjaDniaRelation.html",
-          "hash": "7YobnXzjvOFFfUW4w/XyeA=="
+          "hash": "W+3B2kxw4nBq53gjDzBpMw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -57,10 +57,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.CompactModule.OgraniczenieDniaTable.JednostkaOrganizacyjnaRelation.html",
-          "hash": "prM3EHnQf82WTrIMK7vxZA=="
+          "hash": "vYm3Lknw67wR4gopmVzbDw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -69,10 +69,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.CompactModule.OgraniczenieDniaTable.WgKodKey.html",
-          "hash": "WujVflnQ0tOHq1C+/mf95A=="
+          "hash": "PTMvwzKa1LulFBs/OxGr/g=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -81,10 +81,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.CompactModule.OgraniczenieDniaTable.html",
-          "hash": "tLIVJMLumsYripLHidYMqw=="
+          "hash": "dKNh6hTGZkQlgVA2JZAWeg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -93,10 +93,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.CompactModule.html",
-          "hash": "p6yIbiR41qf7NUkVIKZgXQ=="
+          "hash": "OmiBhQtiAqTDdiRVj7prNA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -105,10 +105,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.StaticsCompactModule.html",
-          "hash": "j519mkLz37KsDU1wrbF9DQ=="
+          "hash": "RDS4Mn+z7X2Ktl+l/Zzedw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -117,10 +117,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Compact.OgraniczenieDniaPracy.Compact.html",
-          "hash": "B9yl1Mm3hoqgLyLwJcMnBQ=="
+          "hash": "wWI5fTkCReRKEscaj46i1w=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -129,10 +129,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Compact.OgraniczenieDniaPracy.DniWyboru.html",
-          "hash": "ODa+L1uZALfk3XzUQjAwqQ=="
+          "hash": "NK7JdA30PkgyR3kOKepmOg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -141,10 +141,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Compact.OgraniczenieDniaPracy.Init.html",
-          "hash": "WZrjWnoJmVjox19PFDLyRQ=="
+          "hash": "MutOgbz4EcyzfrOIuLLSoA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -153,10 +153,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Compact.OgraniczenieDniaPracy.OgraniczeniaDnia.html",
-          "hash": "ppICh13cBitcN5PVkuR5XQ=="
+          "hash": "4EQxmmm1HMfv8ph/Ww8diA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -165,10 +165,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Compact.OgraniczenieDniaPracy.OgraniczenieDnia.html",
-          "hash": "p0kB4xPA3lu9G+JMvvmXIg=="
+          "hash": "kseYXtwDbvDk+iHqoFUipg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -177,10 +177,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Compact.OgraniczenieDniaPracy.PageFormOgr.html",
-          "hash": "OIneiv22umNl4kRES2RgJw=="
+          "hash": "s5qhCdVO/EtwByqZEej9aw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -189,10 +189,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Compact.OgraniczenieDniaPracy.ViewOgraniczeniaViewInfo.html",
-          "hash": "b6qfk2+VjW0O7NF4m26u6A=="
+          "hash": "Onil/CU9nsqn+FOKaGJ2Iw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -201,10 +201,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Compact.OgraniczenieDniaPracy.WParams.Wparams_Wewnetrzna.html",
-          "hash": "keprj+GEtn2Rmnf5TfA8mw=="
+          "hash": "pN2Hl7kOZ1wVbD5LFMStEQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -213,10 +213,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Compact.OgraniczenieDniaPracy.WParams.html",
-          "hash": "Y3DW3gHT3fX12zPb9sELoQ=="
+          "hash": "H0QcrHe8BxDe6edSLMhxkA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -225,10 +225,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Compact.OgraniczenieDniaPracy.html",
-          "hash": "bttKL4RU95zr/y7ZX8UgLw=="
+          "hash": "B34Zg22jbRN5oCSKQVAvqA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -237,10 +237,10 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "pWCA2TrDZPmYkgqQtTVMsA=="
+          "hash": "XO0TltOoazrRFfMKIxAniw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -257,26 +257,23 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/intro.md",
+      "source_relative_path": "articles/tabela.md",
       "output": {
         ".html": {
-          "relative_path": "articles/intro.html",
-          "hash": "TVQncD/qgqjFfBz0b99QDQ=="
+          "relative_path": "articles/tabela.html",
+          "hash": "kX8NOOmEM8ONULSIVyj9Vw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/test.md",
       "output": {
         ".html": {
           "relative_path": "articles/test.html",
-          "hash": "2Ldsp9Q3rst75wVe3++m1A=="
+          "hash": "btfMSkggGmb0E15n9g7HUQ=="
         }
       },
       "is_incremental": false,
@@ -288,7 +285,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "VhuoZrxyJKiPTNSAVojdTA=="
+          "hash": "kb8GQ9CTkVF/LX6WUmDPmQ=="
         }
       },
       "is_incremental": false,
@@ -329,10 +326,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/Obraz3.png",
+      "source_relative_path": "images/Obraz3_1.png",
       "output": {
         "resource": {
-          "relative_path": "images/Obraz3.png"
+          "relative_path": "images/Obraz3_1.png"
         }
       },
       "is_incremental": false,
@@ -405,15 +402,26 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "images/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "wNWxldWfLAe1vxOgwcp3GA=="
+          "hash": "yfA7Kq73rwDmOhsia1ra7Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -422,7 +430,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "+rHUkRZHZRi5gd1aTU6lJA=="
+          "hash": "FlpYHlGIxqwyiXXFOaOeGQ=="
         }
       },
       "is_incremental": false,
